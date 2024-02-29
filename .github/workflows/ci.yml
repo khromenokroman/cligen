@@ -50,4 +50,4 @@ jobs:
       uses: codecov/codecov-action@v4
       with:
         verbose: true
-        token: ${{ secrets.ORG_CODECOV }}
+        token: ${{ secrets.ORG2_CODECOV }}
